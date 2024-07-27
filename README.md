@@ -23,7 +23,7 @@ Creating a virtual python environment dedicated for this application is strongly
 1. Clone this repository and confirm if virtual env is activated.
 
         $ git clone https://github.com/nandish7007/test-bot.git
-        $ cd test-bot
+        $ cd chat-bot
         $ python --version
         Python 3.8
 
